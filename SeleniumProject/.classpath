@@ -11,5 +11,7 @@
 			<attribute name="javadoc_location" value="https://www.selenium.dev/selenium/docs/api/java/"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/faraz/OneDrive/Desktop/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/faraz/OneDrive/Desktop/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -11,7 +11,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class SeleniumTest {
 	public static void main(String[] args) {
-		//Setting up Chrome driver and navigating to website
+		//Setting up Chrome driver and navigating to the website
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\faraz\\OneDrive\\Desktop\\ChromeDriver\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("http://ec2-54-208-152-154.compute-1.amazonaws.com/");

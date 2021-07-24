@@ -164,6 +164,7 @@ public class SeleniumTest {
 	
 	//Print victory message
 	public static void printAlert(WebDriver driver) {
+		System.out.println();
 		System.out.println(driver.switchTo().alert().getText());
 		System.out.println("---------------");
 		driver.switchTo().alert().accept();

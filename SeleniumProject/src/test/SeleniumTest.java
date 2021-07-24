@@ -19,7 +19,7 @@ public class SeleniumTest {
 		
 		insertValues(driver);
 		
-		//Weigh it
+		//Weigh the bowls
 		driver.findElement(By.xpath("//button[normalize-space()='Weigh']")).click();
 
 		//Wait for comparator operator instead of "?"
